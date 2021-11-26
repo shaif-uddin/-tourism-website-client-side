@@ -1,0 +1,17 @@
+.banner {
+    background-image: url("https://i.ibb.co/cXVC2fb/bd.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+  }
+  .text-area {
+    color: white;
+    background: rgba(0, 0, 0, 0.7);
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+  }

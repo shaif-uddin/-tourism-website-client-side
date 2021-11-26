@@ -1,0 +1,12 @@
+.image-hero {
+    background-image: url("https://i.ibb.co/1Z0nWPx/slider.jpg");
+    height: 40vh;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+  }
+  .overlay {
+    background: rgba(0, 0, 0, 0.7);
+    height: 40vh;
+  }

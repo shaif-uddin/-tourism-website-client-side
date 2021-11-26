@@ -1,0 +1,20 @@
+.img-card {
+    background: rgba(0, 0, 0, 0.7);
+    height: 50vh;
+  }
+  .c-1 {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    left: 0;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .overlay-c {
+    background: rgba(0, 0, 0, 0.7);
+    height: 50vh;
+    position: absolute;
+    top: 0;
+  }
